@@ -1,4 +1,4 @@
-module github.com/takmatsukawa/connect-go-example
+module example
 
 go 1.20
 
